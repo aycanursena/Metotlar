@@ -1,3 +1,4 @@
+```
 package Metotlar;
 
 public class PalindromSayi {
@@ -25,3 +26,4 @@ public class PalindromSayi {
         System.out.println(isPalindrom(4004));
     }
 }
+```
