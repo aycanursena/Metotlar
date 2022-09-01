@@ -1,3 +1,4 @@
+```
 package Metotlar;
 import java.util.Scanner;
 
@@ -25,3 +26,4 @@ public class DeseneGoreMetot {
         Azalma(sayi, 0);
     }
 }
+```
