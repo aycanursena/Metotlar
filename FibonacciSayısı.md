@@ -1,3 +1,4 @@
+```
 package Metotlar;
 
 public class FibonacciSerisi {
@@ -12,3 +13,4 @@ public class FibonacciSerisi {
         System.out.println("Fibonacci Sayısı : " + fibonacci(6));
     }
 }
+```
