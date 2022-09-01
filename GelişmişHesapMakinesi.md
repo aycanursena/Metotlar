@@ -1,3 +1,4 @@
+```
 package Metotlar;
 import java.util.Scanner;
 
@@ -94,3 +95,4 @@ public class GelismisHesapMakinesi {
         System.out.println("Güle Güle...");
     }
 }
+```
