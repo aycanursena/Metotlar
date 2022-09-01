@@ -1,3 +1,4 @@
+```
 package Metotlar;
 import java.util.Scanner;
 
@@ -19,3 +20,4 @@ public class RecursiveUsAlma {
         System.out.println("Cevabınız : " + UsAlma(taban, kuvvet));
     }
 }
+```
